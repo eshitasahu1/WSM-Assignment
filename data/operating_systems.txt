@@ -1,0 +1,4 @@
+Title: Operating System Concepts
+Author: Vikram Singh
+Date: 2006-12-01
+An operating system manages processes, memory and files. The scheduler decides which process runs next on the processor. Virtual memory lets programs use more memory than is physically installed.

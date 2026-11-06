@@ -1,0 +1,4 @@
+Title: Information Retrieval Basics
+Author: Meera Iyer
+Date: 2006-03-14
+Information retrieval is the science of searching for information in documents. An inverted index maps every term to the documents that contain it. Computers and search engines rank results by relevance.

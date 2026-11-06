@@ -1,0 +1,4 @@
+Title: Text Normalization and Tokenization
+Author: Meera Iyer
+Date: 2006-09-05
+Text normalization and case folding make Search and search the same term. Tokenization splits text into tokens before indexing. Stemming reduces computing, computers and computed to one stem.

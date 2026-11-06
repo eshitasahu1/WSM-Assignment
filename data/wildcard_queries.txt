@@ -1,0 +1,4 @@
+Title: Wildcard and Spelling Queries
+Author: Arjun Mehta
+Date: 2006-01-18
+Wildcard queries such as comput* or n*k are answered with a permuterm index. Spelling correction finds the nearest term, and Soundex matches words that sound alike.

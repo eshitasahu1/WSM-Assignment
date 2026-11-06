@@ -1,0 +1,4 @@
+Title: Relational Database Systems
+Author: Neha Kapoor
+Date: 2006-08-09
+Relational databases store data in tables made of rows and columns. SQL queries select, join and update records. Transactions keep the data consistent even when failures happen, and an index makes lookups much faster.

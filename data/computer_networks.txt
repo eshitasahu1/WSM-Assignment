@@ -1,0 +1,4 @@
+Title: Computer Networks and Security
+Author: Arjun Mehta
+Date: 2006-07-02
+A computer network connects computers so they can share data. Network security protects networks against attacks. Firewalls, encryption and authentication secure network traffic.

@@ -1,0 +1,4 @@
+Title: How Web Search Engines Work
+Author: Priya Nair
+Date: 2006-11-20
+Web search engines crawl pages, build an index, and answer user queries quickly. Boolean queries combine terms with AND, OR and NOT. Ranking uses term frequency and inverse document frequency.

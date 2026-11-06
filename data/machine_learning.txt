@@ -1,0 +1,4 @@
+Title: Machine Learning Basics
+Author: Ravi Shah
+Date: 2006-05-23
+Machine learning lets systems learn patterns from examples instead of fixed rules. Training data is split into training and test sets. Models are evaluated on accuracy, precision and recall, and overfitting is reduced with more data.
